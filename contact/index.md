@@ -16,4 +16,5 @@ title: Contact Me
 | Discord      | @StarAssassin64  | None :(                                                                                             |
 | TikTok       | @StarAssassin64  | [TikTok](https://www.tiktok.com/@starassassin64)                                                    |
 | GitHub       | @StarAssassin64  | [GitHub](https://github.com/starassassin64)                                                         |
-
+| BlueSky      | @starassassin64.com | [bsky.app]( rel="me") |
+| Mastodon     | @StarAssassin64@tech.lgbt | [Tech.LGBT Mastodon](https://tech.lgbt/@starassassin64) |
